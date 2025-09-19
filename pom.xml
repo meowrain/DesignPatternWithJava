@@ -12,6 +12,7 @@
     <modules>
         <module>strategy_pattern</module>
         <module>decorator_pattern</module>
+        <module>iterator_pattern</module>
     </modules>
     <groupId>org.designpattern</groupId>
     <artifactId>design_pattern</artifactId>
