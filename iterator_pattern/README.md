@@ -159,7 +159,7 @@ class Book {
 **5. 客户端使用**
 
 ```java
-public class Main {
+public class org.designpattern.Main {
     public static void main(String[] args) {
         BookShelf bookShelf = new BookShelf();
         bookShelf.addBook(new Book("设计模式"));
