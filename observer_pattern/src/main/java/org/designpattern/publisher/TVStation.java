@@ -7,7 +7,6 @@ import org.designpattern.common.EventListener;
 import java.util.*;
 
 public class TVStation {
-    private final  Set<EventListener> listeners = new HashSet<>();
     private final Map<Class<? extends Event>,List<EventListener>> listenerMap = new HashMap<>();
     private String name;
     public TVStation(String name) {

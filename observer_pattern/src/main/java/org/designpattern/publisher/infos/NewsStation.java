@@ -1,4 +1,4 @@
-package org.designpattern.infos;
+package org.designpattern.publisher.infos;
 
 import org.designpattern.publisher.TVStation;
 import org.designpattern.events.NewUpdateEvent;

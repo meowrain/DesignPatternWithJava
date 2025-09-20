@@ -2,8 +2,8 @@ package org.designpattern;
 
 import org.designpattern.events.NewUpdateEvent;
 import org.designpattern.events.WeatherUpdateEvent;
-import org.designpattern.infos.NewsStation;
-import org.designpattern.infos.WeatherStation;
+import org.designpattern.publisher.infos.NewsStation;
+import org.designpattern.publisher.infos.WeatherStation;
 import org.designpattern.listeners.User;
 import org.designpattern.publisher.TVStation;
 
